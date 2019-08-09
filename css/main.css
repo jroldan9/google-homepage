@@ -1,0 +1,38 @@
+.top{
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.middlePage{
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding-top: 8%;
+}
+
+div img{
+	width: 325px;
+	height: 210px;
+	
+}
+
+.search {
+	width: 570px;
+	height: 35px;
+	border-radius: 25px;
+	border: 1px solid #d3d3d3;
+	background: url('https://www.google.com/images/searchbox/desktop_searchbox_sprites302_hr.webp');
+	background-repeat: no-repeat;
+	background-size: 25px 64px;
+	background-position: 15px 4px;
+}
+
+
+.search:hover {
+	border:1px solid #d3d3d3;
+}
+
+a:visited {
+	color: black;
+  }
